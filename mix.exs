@@ -16,7 +16,7 @@ defmodule DefaultTitle.Mixfile do
 
   defp deps do
     [
-      {:phoenix, "~> 1.1.4"},
+      {:phoenix, "~> 1.3.0-rc.1"},
     ]
   end
 end
